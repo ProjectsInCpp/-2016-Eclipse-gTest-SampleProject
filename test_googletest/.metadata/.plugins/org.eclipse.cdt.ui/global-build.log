@@ -1,0 +1,8 @@
+17:08:20 **** Rebuild of configuration Debug for project EmptyProj ****
+Info: Internal Builder is used for build
+g++ "-ID:\\Clouds\\OneDrive\\Documents\\GitHub\\C++\\-2016-Nokia-Eclipse-gTest-SampleProject\\googletestlib\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "test_googletest\\src\\test_counter.o" "..\\test_googletest\\src\\test_counter.cpp" 
+g++ "-ID:\\Clouds\\OneDrive\\Documents\\GitHub\\C++\\-2016-Nokia-Eclipse-gTest-SampleProject\\googletestlib\\include" -O0 -g3 -Wall -c -fmessage-length=0 -std=gnu++11 -o "test_googletest\\src\\counter.o" "..\\test_googletest\\src\\counter.cpp" 
+g++ "-LD:\\Clouds\\OneDrive\\Documents\\GitHub\\C++\\-2016-Nokia-Eclipse-gTest-SampleProject\\googletestlib\\make" -o EmptyProj.exe "test_googletest\\src\\counter.o" "test_googletest\\src\\test_counter.o" -lgtest 
+Info: Nothing to build for EmptyProj
+Info: Nothing to build for EmptyProj
+Info: Nothing to build for EmptyProj
